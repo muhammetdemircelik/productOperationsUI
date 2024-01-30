@@ -44,7 +44,8 @@ export default {
                     price: null,
                     totalPrice: null,
                     selectedImage: null
-                }
+                },
+                semi : null,
             }
         },
         methods: {
